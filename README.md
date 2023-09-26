@@ -2,6 +2,14 @@
 
 <img src="https://github.com/rpointjour/front_end_development/assets/54840122/d27acf53-3a39-43ba-b2e8-02ee892aa6eb" alt="WordPress" style="width:25%;height:25%;" />
 
-Personal Blog Site (rpointjour.wordpress.com)
+#
 
-Development Stages
+**Personal Blog Site: [rpointjour](rpointjour.wordpress.com)**
+
+#
+
+**Development Stages**
+
+- Initial Design
+- Prototype
+- Final Design
